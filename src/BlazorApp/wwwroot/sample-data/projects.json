@@ -1,22 +1,42 @@
 [
   {
-    "title": "10 Things To Know About Azure Static Web Apps 🎉",
-    "description": "Collaboration to create a beginner friendly article to help explain Azure Static Web Apps and tooling to get started.",
-    "url": "https://dev.to/azure/10-things-to-know-about-azure-static-web-apps-3n4i"
+    "title": "Drug Prediction Based on Customers Review 🎉",
+    "description": "Used Google colab and Python programming language to predict drugs based on customers review. Presented and published in 12th IEEE COMNESAT 2023 conference.",
+    "url": "https://github.com/TinaTorabinejad/Portfolio/blob/main/Published%20Paper/Drug%20Prediction%20Based%20on%20Customer%20Reviews.pdf"
   },
   {
-    "title": "Web Development for Beginners",
-    "description": "Contributed sketch note imagery to accompany each lesson. These help provide visual representation of what is being taught.",
-    "url": "https://github.com/microsoft/web-dev-for-beginners"
+    "title": "Web Development for LA County - Internship",
+    "description": "Learned more about REACT, Javascrip, SQL. Applied knowledge learned to create a simple website for LA county. The project also features a fully functional authentication process, which includes the login, registration, and forgot password page.",
+    "url": "https://github.com/TinaTorabinejad/Portfolio/tree/main/LA%20Project"
   },
   {
-    "title": "My Resume Site",
-    "description": "Created from Microsoft's resume workshop and deployed to GitHub pages. Includes my experience and design abilities.",
-    "url": "https://github.com/microsoft/workshop-library/tree/main/full/build-resume-website"
+    "title": "Convolutional Neural Networks and Transfer Learning",
+    "description": "Used Keras library and applied the netwrok architecture to the EMNIST Letters data. Used transfer learning & fine-tuning in the Keras to apply the existing model to the new dataset.",
+    "url": "https://github.com/TinaTorabinejad/Portfolio/tree/main/Convolutional%20Neural%20Networks%20and%20Transfer%20Learning"
   },
   {
-    "title": "GitHub Codespaces and github.dev",
-    "description": "Video interview to explain when to use GitHub.dev versus GitHub Codespaces, and how best to use each tool.",
-    "url": "https://www.youtube.com/watch?v=c3hHhRME_XI"
+    "title": "Embedding and Recurrent Neural Networks",
+    "description": "Used Keras library to create recurrent neural networks to predict the quality and difficulty scores that a student will assign given the student's comments.",
+    "url": "https://github.com/TinaTorabinejad/Portfolio/tree/main/Embedding%20and%20Recurrent%20Neural%20Networks"
+  },
+  {
+    "title": "Electric Car Traveler",
+    "description": "I worked with two classmates to design and implement an algorithm related to weighted undirected graphs.",
+    "url": "https://github.com/TinaTorabinejad/Portfolio/tree/main/Electric%20Car%20Traveler"
+  },
+  {
+    "title": "Small World",
+    "description": "I designed and implemented an algorithm related to strings. The purpose of this project was to claculate the shortest connection between movie casts.",
+    "url": "https://github.com/TinaTorabinejad/Portfolio/tree/main/Small%20World"
+  },
+  {
+    "title": "HealthApp",
+    "description": "This application was designed for iOS users using Swift programming language. The app contains four tabs, and each tab functions separately. The app is available in both English and Spanish language.",
+    "url": "https://github.com/TinaTorabinejad/Portfolio/tree/main/Health%20App"
+  },
+  {
+    "title": "Game of Nim",
+    "description": "This project was implemented using Python Programming language. In this project, the player is playing against the AI. This project was implemented using adversarial search with the MinMax and alpha-beta pruning algorithm.",
+    "url": "https://github.com/TinaTorabinejad/Portfolio/tree/main/Game%20of%20Nim"
   }
 ]
