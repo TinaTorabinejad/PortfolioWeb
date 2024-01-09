@@ -1,12 +1,14 @@
 {
-  "description": "I'm a UI/UX student studying at Barnett Technical University. I enjoy creating unique and simplistic user interfaces in creative ways.",
+  "description": "Welcome to my portfolio! I am a detail-oriented Computer Science professional with a Master's degree from CSUF, specializing in data structures, artificial intelligence, and machine learning. My academic journey and hands-on experiences have equipped me with a diverse skill set, including proficiency in Python, SQL, C/C++, and web technologies such as React and JavaScript. Explore my projects, showcasing my ability to apply theoretical knowledge to real-world challenges, and witness my dedication to delivering innovative solutions.",
   "skills": [
-    "Web design",
-    "User experience",
-    "Inclusive design",
-    "Focus group testing",
-    "Mobile user interfaces",
-    "Graphic design"
+    "Python",
+    "SQL",
+    "Power BI",
+    "Tableau",
+    "JavaScript",
+    "Swift",
+    "C++",
+    "HTML and CSS"
   ],
-  "detailOrQuote": "I am passionate about solving problems in new creative ways to drive innovation. By leveraging my UI/UX experience I continually look for new and better ways to make tech accessible by all."
+  "detailOrQuote": "I am passionate about solving problems in new creative ways to drive innovation. By leveraging my coding experience I continually look for new and better ways to make tech accessible by all."
 }
