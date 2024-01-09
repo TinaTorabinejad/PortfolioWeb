@@ -1,8 +1,8 @@
 [
   {
     "name": "home",
-    "src": "images/BackgroundImage_Forest.jpg",
-    "alt": "Dark Forest"
+    "src": "images/ML_Background.jpg",
+    "alt": "Machine learning background"
   },
   {
     "name": "about",
